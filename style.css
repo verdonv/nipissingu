@@ -1,0 +1,164 @@
+/*
+Theme Name: Nipissing U Beta 1 - BETA and may be subject to minor change
+Author: Verdon Vaillancourt Nipissing University UTS
+Author URI: http://verdon.ca/
+Description: The Nipissing U theme for Wordpress is a Nipissing-branded child theme of the 2011 theme for Wordpress. The 2011 theme for WordPress is sophisticated, lightweight, and adaptable. Make it yours with a custom menu, header image, and background -- then go further with available theme options for light or dark color scheme, custom link colors, and three layout choices. Twenty Eleven comes equipped with a Showcase page template that transforms your front page into a showcase to show off your best content, widget support galore (sidebar, three footer areas, and a Showcase page widget area), and a custom "Ephemera" widget to display your Aside, Link, Quote, or Status posts. Included are styles for print and for the admin editor, support for featured images (as custom header images on posts and pages and as large images on featured "sticky" posts), and special styles for six different post formats.
+Version: 1.0
+Update URL: https://github.com/verdonv/nipissingu/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: nipissing, dark, light, white, black, gray, one-column, two-columns, left-sidebar, right-sidebar, fixed-width, flexible-width, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+Text Domain: twentyeleven
+Template: twentyeleven
+*/
+
+/* PUT ANY CSS YOU WISH TO OVERIDE THE STANDARD 2011 CSS BELOW */
+
+body {
+	background: #f1f1f1;
+}
+
+.one-column #branding #searchform {
+	top: 2em;
+}
+
+h1 {font-size: 1.75em;}
+h2 {font-size: 1.5em;}
+h3 {font-size: 1.25em;}
+
+#site-title {
+	padding: 1em 0 0;
+}
+
+#site-description {
+	margin: 0 270px 1em 0;
+}
+
+#branding img {
+	height: auto;
+	margin-bottom: -7px;
+	width: 100%;
+}
+
+#branding #searchform {
+	top: 2em;
+}
+
+.widget img {
+	/* max-width: 97.5%; */
+}
+
+.singular .hentry {
+	padding: 1.875em 0 0;
+}
+
+.singular.page .hentry {
+	padding: 0;
+}
+
+#respond .comment-form-email .required {
+	top: 45px;
+}
+
+.singular .hentry {
+	padding: 0;
+}
+
+.singular.page .hentry {
+	padding: 0;
+}
+
+
+
+/* *** *** FOOTER STYLES *** *** */
+#nuFooter {
+	font-size: 0.7em;
+	text-align: center;
+	color: #000;
+	border-top: 1px solid #ddd;
+}
+
+#nuFooter a {
+    /*color: #999;*/
+}
+
+/*
+#nuFooterWrap { 
+    width: 960px; 
+    background-image: url(../images/v1_footer_bottom.gif);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    padding-bottom: 14px;
+} */
+
+#nuFooterWrap { 
+    width: 100%; 
+}
+
+#nuFooter1 {
+    background-image: url(images/footer_coa.gif);
+    background-repeat: no-repeat;
+    background-position: 5px 0;
+    width: 81px;
+    height: 130px;
+    float: left;
+    display: inline;
+    margin: 0;
+    padding: 0;
+/*    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc; */
+}
+
+#nuFooter2 {
+    /*width: 869px;*/
+    width: 87%;
+    height: 130px;
+    float: left;
+    display: inline;
+    margin: 0;
+    padding: 0.9em 0 0 0;
+	text-align: right;
+	line-height: 1.5em;
+/*    border-top: 1px solid #ccc; */
+}
+
+#nuFooter3 { 
+    width: 8px;
+    height: 130px;
+    float: left;
+    display: inline;
+    margin: 0;
+    padding: 0;
+/*    border-top: 1px solid #ccc;
+    border-right: 1px solid #ccc; */
+}
+
+#nuFooterAddress {
+    float: left;
+	text-align: left;
+	padding: 0 1em 1em 1.4em;
+}
+
+.footerAddressBlock {
+    float: left;
+	text-align: left;
+	padding: 0 1em 1em 0.5em;
+	color: #999;
+}
+
+.footerAddressBlock a, .footerAddressBlock a:link, .footerAddressBlock a:hover, .footerAddressBlock a:visited {
+	color: #999;
+}
+
+.footerAddressBlock a:hover {
+	text-decoration: underline;
+}
+
+#nuFooterLinks {
+	text-align: right;
+}
+
+
+
+
+
