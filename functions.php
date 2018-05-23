@@ -64,9 +64,4 @@ function vvblankptitle($title) {
        return '%s';
 }
 
-// secondary menu in child theme
-//register_nav_menus(array(
-//    'primary' => __('Top Navigation', 'nipissingu'),
-//    'secondary' => __('Sidebar Navigation', 'nipissingu'),
-//) );
 
