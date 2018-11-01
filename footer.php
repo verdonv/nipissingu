@@ -27,7 +27,7 @@
                 
                     <div id="nuFooter2">
                         <div id="nuFooterAddress">
-                            <strong><a href="http://www.nipissingu.ca/">Nipissing University</a></strong> <br />
+                            <strong><a href="https://www.nipissingu.ca/">Nipissing University</a></strong> <br />
                             100 College Drive, Box 5002 <br />
                             North Bay, ON, Canada <br />
                             P1B 8L7 <br />
@@ -37,16 +37,16 @@
                         </div>
                         <div id="nuFooterLinks">
                             <div style="float: right; text-align: left; padding: 0 1em 0 1em;">
-                                <a href="http://www.nipissingu.ca/directories/Pages/TelephoneDirectory.aspx">Phone Directory</a><br />
-                                <a href="http://mail.nipissingu.ca/">NU Mail</a><br />
-                                <a href="http://www.nipissingu.ca/departments/human-resources/health-and-safety">Health &amp; Safety</a><br />
-                                <a href="http://www.nipissingu.ca/information/Pages/Site-Map.aspx">Site Map</a><br />
+                                <a href="https://www.nipissingu.ca/users">Phone Directory</a><br />
+                                <a href="https://mail.nipissingu.ca/">NU Mail</a><br />
+                                <a href="https://www.nipissingu.ca/departments/human-resources/health-and-safety">Health &amp; Safety</a><br />
+                                <a href="https://www.nipissingu.ca/site-information/site-map">Site Map</a><br />
                             </div>
                             <div style="float: right; text-align: left; padding: 0 1em 0 1em;">
-                                <a href="http://my.nipissingu.ca/">MyNipissing</a><br />
-                                <a href="http://webadvisor.nipissingu.ca/">WebAdvisor</a><br />
-                                <a href="http://blackboard.nipissingu.ca/">Blackboard</a><br />
-                                <a href="http://www.eclibrary.ca/">Library</a><br />
+                                <a href="https://my.nipissingu.ca/">MyNipissing</a><br />
+                                <a href="https://webadvisor.nipissingu.ca/">WebAdvisor</a><br />
+                                <a href="https://learn.nipissingu.ca/">Blackboard</a><br />
+                                <a href="https://www.eclibrary.ca/">Library</a><br />
                             </div>
                         </div>
                     </div>
